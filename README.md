@@ -26,7 +26,10 @@ Modern optimisation encompasses a spectrum of problem classes, ranging from line
 
 * [Example: Finding the max/min using Mixed-Integer Linear Programming](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/Op_LinProg.mlx)
 
-* [Example: Rastrigin Function]()
+* [Example: Rastrigin Function](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/Rastrigin_Function.mlx)
 
 <img width="1851" height="1037" alt="image" src="https://github.com/user-attachments/assets/18362d14-a224-49cc-8909-c8090a2da6d8" />
-[Youtube Video](https://www.youtube.com/watch?v=p-tPl5BChtY)
+
+* [YouTube Video](https://www.youtube.com/watch?v=p-tPl5BChtY) **ENGLISH VERSION**
+  
+* [YouTube Video](https://youtu.be/uE8n9t-FnPM) **SPANISH VERSION**

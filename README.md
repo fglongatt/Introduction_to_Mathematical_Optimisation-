@@ -15,3 +15,5 @@ Modern optimisation encompasses a spectrum of problem classes, ranging from line
 4. Constrained vs Unconstrained Optimisation
 5. Convex vs Non‑Convex Problems
 
+## Examples used in the presentation
+Example: Finding Local Maxima and Minima By Differentiation

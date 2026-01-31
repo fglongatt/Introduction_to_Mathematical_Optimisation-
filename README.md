@@ -18,4 +18,4 @@ Modern optimisation encompasses a spectrum of problem classes, ranging from line
 ## Examples used in the presentation
 [Example: Finding Local Maxima and Minima By Differentiation](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/MaxMin_by_Diff_1.mlx)
 
-[Example Finding Local Maxima and Minima By Trial and Error]()
+[Example Finding Local Maxima and Minima By Trial and Error](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/MaxMin_by_TrialError_1.mlx)

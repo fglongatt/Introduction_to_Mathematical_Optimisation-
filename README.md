@@ -22,4 +22,6 @@ Modern optimisation encompasses a spectrum of problem classes, ranging from line
 
 * [Example Curve Fitting: Least-squares minimisation](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/CurveFit_LSM_1.mlx)
 
-* [Example: Finding the max/min of a Non-Linear Function]()
+* [Example: Finding the max/min of a Non-Linear Function](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/MaxMin_nonlin_1.mlx)
+
+* [Example: Finding the max/min using Mixed-Integer Linear Programming]()

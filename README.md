@@ -20,4 +20,6 @@ Modern optimisation encompasses a spectrum of problem classes, ranging from line
 
 * [Example Finding Local Maxima and Minima By Trial and Error](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/MaxMin_by_TrialError_1.mlx)
 
-* [Example Curve Fitting: Least-squares minimisation]()
+* [Example Curve Fitting: Least-squares minimisation](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/CurveFit_LSM_1.mlx)
+
+* [Example: Finding the max/min of a Non-Linear Function]()

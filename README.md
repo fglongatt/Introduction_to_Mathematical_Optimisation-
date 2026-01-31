@@ -24,4 +24,7 @@ Modern optimisation encompasses a spectrum of problem classes, ranging from line
 
 * [Example: Finding the max/min of a Non-Linear Function](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/MaxMin_nonlin_1.mlx)
 
-* [Example: Finding the max/min using Mixed-Integer Linear Programming]()
+* [Example: Finding the max/min using Mixed-Integer Linear Programming](https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/Op_LinProg.mlx)
+
+<img width="1851" height="1037" alt="image" src="https://github.com/user-attachments/assets/18362d14-a224-49cc-8909-c8090a2da6d8" />
+

@@ -16,4 +16,4 @@ Modern optimisation encompasses a spectrum of problem classes, ranging from line
 5. Convex vs Non‑Convex Problems
 
 ## Examples used in the presentation
-Example: Finding Local Maxima and Minima By Differentiation
+Example: [Finding Local Maxima and Minima By Differentiation] (https://github.com/fglongatt/Introduction_to_Mathematical_Optimisation-/blob/main/MaxMin_by_Diff_1.mlx)
